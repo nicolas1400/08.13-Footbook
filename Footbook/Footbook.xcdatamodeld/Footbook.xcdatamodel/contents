@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model userDefinedModelVersionIdentifier="" type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="5064" systemVersion="13E28" minimumToolsVersion="Automatic" macOSVersion="Automatic" iOSVersion="Automatic">
+    <entity name="Feet" representedClassName="Feet">
+        <attribute name="feetAmount" optional="YES" attributeType="Integer 32" defaultValueString="0" syncable="YES"/>
+        <attribute name="hairiness" optional="YES" attributeType="Integer 32" defaultValueString="0" syncable="YES"/>
+        <attribute name="liked" optional="YES" attributeType="Boolean" syncable="YES"/>
+        <attribute name="name" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="shoeSize" optional="YES" attributeType="Integer 32" defaultValueString="0" syncable="YES"/>
+        <userInfo/>
+    </entity>
+    <elements>
+        <element name="Feet" positionX="261" positionY="189" width="128" height="120"/>
+    </elements>
+</model>
